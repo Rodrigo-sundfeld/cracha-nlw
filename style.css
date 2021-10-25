@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url(images/background.png);
+  background: url(images/background.png) no-repeat;
   width: 100vw;
   height: 100vh;
 
